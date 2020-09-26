@@ -36,3 +36,4 @@ if my_color in new_colors:
     print( f"The color {my_color} is in index {index}" )
 else:
     print("color not found")    
+

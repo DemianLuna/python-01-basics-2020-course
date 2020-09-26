@@ -9,8 +9,8 @@ print( f"5 == 5 : { 5 == 5 }"  )
 print( f"5 == 6 : { 5 == 6 } \n"  )
 
 # not equal to !=
-print( f"9 != 7 : { 9 == 7 }"  )
-print( f"9 != 9 : { 9 == 9 } \n"  )
+print( f"9 != 7 : { 9 != 7 }"  )
+print( f"9 != 9 : { 9 != 9 } \n"  )
 
 
 # less than <
